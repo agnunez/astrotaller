@@ -8,3 +8,12 @@ draft = false
 
 Aqui tienes los *proyectos* mas importantes que se desarrollaron en el canal de Telegram **@astrotaller**
 
+## Telescopios
+
+### Newton D150F750
+
+## Observatorios
+
+## Camaras
+
+## Software
