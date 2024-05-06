@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AstroTaller</title>
+    <link>https://example.org/</link>
+    <description>Recent content on AstroTaller</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 May 2024 03:06:22 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principal</title>
+      <link>https://example.org/posts/principal/</link>
+      <pubDate>Mon, 06 May 2024 03:06:22 +0000</pubDate>
+      <guid>https://example.org/posts/principal/</guid>
+      <description>Proyectos de AstroTaller.com Aqui tienes los proyectos mas importantes que se desarrollaron en el canal de Telegram @astrotaller</description>
+    </item>
+  </channel>
+</rss>
