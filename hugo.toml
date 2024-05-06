@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'es-es'
 title = 'AstroTaller'
-theme = 'ananke'
+theme = 'hugo-theme-relearn'
