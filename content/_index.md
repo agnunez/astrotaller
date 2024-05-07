@@ -3,4 +3,6 @@ archetype = "home"
 title = ""
 +++
 
-This is a new home page.
+Aquí encontrarás los mejores tutoriales de proyectos desarrollados en el canal de Telegram @astrotaller.
+
+![Logo](/images/logo_astrotaller.jpg)
